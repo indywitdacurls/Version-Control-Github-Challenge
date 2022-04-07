@@ -1,0 +1,9 @@
+What is Terminal?
+	Terminal is finders big cousin. Terminal will find anything in any folder or document even when finder is unable to locate the item. Terminal can also be a more efficient way to create files in bulk.
+What is the major difference between Git and GitHub?
+	The only major difference is that GitHub is an extension of Git. Git can be worked on completely off network. 
+Why do we use GitHub?
+	GitHub is a repository hosting service which is a network of free repositories for public repositories. There are unlimited repository's on GitHub. Used in group projects so that there isn't any discrepancies and not worry about the potential of being compromised. For GitHub to be free, it has the strongest feature set and includes many additional features including, but not limited to:
+		-Issue Tracking,
+		-Web Pages, and
+		-Source Code Snippet Sharing to Support Developer Projects Hosted on the Server
